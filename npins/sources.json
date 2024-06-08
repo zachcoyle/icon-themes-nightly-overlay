@@ -11,6 +11,30 @@
       "revision": "40cc9e067e35926e5683ca40473fbaf3b48e7498",
       "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/40cc9e067e35926e5683ca40473fbaf3b48e7498.tar.gz",
       "hash": "1iy6ribznjxq0iqg1hyfxn6p0sqp35y39c7wzz6blgqzljvh25dn"
+    },
+    "vimix-icon-theme": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "vinceliuice",
+        "repo": "vimix-icon-theme"
+      },
+      "branch": "master",
+      "revision": "1311c7e6a264b7663e7d032f110179b9e024ede4",
+      "url": "https://github.com/vinceliuice/vimix-icon-theme/archive/1311c7e6a264b7663e7d032f110179b9e024ede4.tar.gz",
+      "hash": "0bmni2qwzc0icxp63r2pwr9pnn70n7fk2r5yd7sfi71pvxmzx8pf"
+    },
+    "whitesur-icon-theme": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "vinceliuice",
+        "repo": "WhiteSur-icon-theme"
+      },
+      "branch": "master",
+      "revision": "fde3ca43c6436174a3783c0db91c7a3b2973ad1a",
+      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/archive/fde3ca43c6436174a3783c0db91c7a3b2973ad1a.tar.gz",
+      "hash": "0z7g1kmy0c06jpjmkvn3g1mhvxi1a1iqx0dqfr1yc0d78v4vb7y3"
     }
   },
   "version": 3
