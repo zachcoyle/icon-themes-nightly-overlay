@@ -24,6 +24,18 @@
       "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/ad50c97a5208477cb0185d33b5bea661aef44c08.tar.gz",
       "hash": "1j1jksi0gd3qymw218yg70aa6qry76fczs3dgxylzg2iivznh6s6"
     },
+    "qogir-icon-theme": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "vinceliuice",
+        "repo": "qogir-icon-theme"
+      },
+      "branch": "master",
+      "revision": "e3fcd0a02c9b595ca37f878763d728dbf7fa9ac2",
+      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/e3fcd0a02c9b595ca37f878763d728dbf7fa9ac2.tar.gz",
+      "hash": "1wqa2pfkbc59clhxp3i05rsqlf4fg9zxvlihpsabvg48b622flp8"
+    },
     "rose-pine-icon-theme": {
       "type": "Git",
       "repository": {
