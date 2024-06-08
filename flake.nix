@@ -38,7 +38,14 @@
         };
       };
       flake = {
-        overlays.default = final: prev: let in {};
+        overlays.default = final: prev: let
+          pins = import ./npins;
+        in {
+          gruvbox-plus-icons = prev.gruvbox-plus-icons.overrideAttrs {
+            src = pins.gruvbox-plus-icons;
+            version = "nightly-${pins.gruvbox-plus-icons.revision}";
+          };
+        };
       };
     };
 }
