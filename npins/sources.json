@@ -3,13 +3,12 @@
     "gruvbox-plus-icons": {
       "type": "Git",
       "repository": {
-        "type": "GitHub",
-        "owner": "SylEleuth",
-        "repo": "gruvbox-plus-icon-pack"
+        "type": "Git",
+        "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack.git"
       },
       "branch": "master",
       "revision": "a490ab25b7a7fdb58c05c709acd8ac47d9e3cc50",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/a490ab25b7a7fdb58c05c709acd8ac47d9e3cc50.tar.gz",
+      "url": null,
       "hash": "1znizpczih8wwjk34qwyvkwm0j8nlj4sjcwhz09hrfzk1w7r19qw"
     },
     "papirus-icon-theme": {
