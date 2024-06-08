@@ -40,12 +40,15 @@
       flake = {
         overlays.default = final: prev: let
           pins = import ./npins;
-        in {
-          gruvbox-plus-icons = prev.gruvbox-plus-icons.overrideAttrs {
-            src = pins.gruvbox-plus-icons;
-            version = "nightly-${pins.gruvbox-plus-icons.revision}";
-          };
-        };
+          icon-themes = builtins.attrNames pins;
+        in (builtins.listToAttrs map (name: {
+            inherit name;
+            value = prev.${name}.overrideAttrs {
+              src = pins.${name};
+              version = "nightly-${pins.${name}.revision}";
+            };
+          })
+          icon-themes);
       };
     };
 }
