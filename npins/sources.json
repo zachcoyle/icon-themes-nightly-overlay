@@ -12,6 +12,54 @@
       "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/40cc9e067e35926e5683ca40473fbaf3b48e7498.tar.gz",
       "hash": "1iy6ribznjxq0iqg1hyfxn6p0sqp35y39c7wzz6blgqzljvh25dn"
     },
+    "papirus-icon-theme": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "PapirusDevelopmentTeam",
+        "repo": "papirus-icon-theme"
+      },
+      "branch": "master",
+      "revision": "ad50c97a5208477cb0185d33b5bea661aef44c08",
+      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/ad50c97a5208477cb0185d33b5bea661aef44c08.tar.gz",
+      "hash": "1j1jksi0gd3qymw218yg70aa6qry76fczs3dgxylzg2iivznh6s6"
+    },
+    "rose-pine-icon-theme": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "rose-pine",
+        "repo": "gtk"
+      },
+      "branch": "main",
+      "revision": "9c96a2d90023d9980f7aa1d5d2553d5133c19b64",
+      "url": "https://github.com/rose-pine/gtk/archive/9c96a2d90023d9980f7aa1d5d2553d5133c19b64.tar.gz",
+      "hash": "1x17hwcsdl6yrzb28dmgyh0w0v4myqxrz18wpdis0qr8kwp0iihl"
+    },
+    "tela-circle-icon-theme": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "vinceliuice",
+        "repo": "tela-circle-icon-theme"
+      },
+      "branch": "master",
+      "revision": "4cab7ab50df3a77ea29f9f25223a9ef6e3a6ed6a",
+      "url": "https://github.com/vinceliuice/tela-circle-icon-theme/archive/4cab7ab50df3a77ea29f9f25223a9ef6e3a6ed6a.tar.gz",
+      "hash": "0w7nsz9qmialxffvb7xjvxfhldq79b1n93w00sjwnfchzvrmf0fz"
+    },
+    "tela-icon-theme": {
+      "type": "Git",
+      "repository": {
+        "type": "GitHub",
+        "owner": "vinceliuice",
+        "repo": "tela-icon-theme"
+      },
+      "branch": "master",
+      "revision": "68951e4cbddca28aac60d227e2a112360207a140",
+      "url": "https://github.com/vinceliuice/tela-icon-theme/archive/68951e4cbddca28aac60d227e2a112360207a140.tar.gz",
+      "hash": "00dzgdqmx95w13vlsq3c018cpdkyq506nby6f9z28hs5b2m934kv"
+    },
     "vimix-icon-theme": {
       "type": "Git",
       "repository": {
