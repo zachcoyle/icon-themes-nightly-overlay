@@ -41,14 +41,14 @@
         overlays.default = final: prev: let
           pins = import ./npins;
           icon-themes = builtins.attrNames pins;
-        in (builtins.listToAttrs map (name: {
+        in (builtins.listToAttrs (map (name: {
             inherit name;
             value = prev.${name}.overrideAttrs {
               src = pins.${name};
               version = "nightly-${pins.${name}.revision}";
             };
           })
-          icon-themes);
+          icon-themes));
       };
     };
 }
