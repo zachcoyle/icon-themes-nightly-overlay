@@ -57,7 +57,7 @@
               value = prev.${name'}.overrideAttrs rec {
                 pname = name';
                 name = "${pname}-${version}";
-                src = pins.${name};
+                src = pins.${name'};
                 version = "nightly-${mkDate self.lastModifiedDate}";
               };
             }) icon-themes
