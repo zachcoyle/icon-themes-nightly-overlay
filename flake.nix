@@ -52,10 +52,10 @@
               ]);
           in
           (builtins.listToAttrs (
-            map (name: {
-              inherit name;
-              value = prev.${name}.overrideAttrs rec {
-                pname = name;
+            map (name': {
+              name = name';
+              value = prev.${name'}.overrideAttrs rec {
+                pname = name';
                 name = "${pname}-${version}";
                 src = pins.${name};
                 version = "nightly-${mkDate self.lastModifiedDate}";
