@@ -8,9 +8,9 @@
         "repo": "gruvbox-plus-icon-pack"
       },
       "branch": "master",
-      "revision": "f2561e5b169aa71466a4b45636f096c6e7683f58",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/f2561e5b169aa71466a4b45636f096c6e7683f58.tar.gz",
-      "hash": "1walgklancmapxajwsh5vb6p7qpw8fwlpqf35wd1sh96yp78r1g5"
+      "revision": "c01209052d281799bf61e6f44392bb71fc12d2f1",
+      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/c01209052d281799bf61e6f44392bb71fc12d2f1.tar.gz",
+      "hash": "1yq9nxc2d6fcn48civ4l7p2nv5fd636gvz481cpwrrjj635wzn5n"
     },
     "papirus-icon-theme": {
       "type": "Git",
@@ -20,9 +20,9 @@
         "repo": "papirus-icon-theme"
       },
       "branch": "master",
-      "revision": "ad50c97a5208477cb0185d33b5bea661aef44c08",
-      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/ad50c97a5208477cb0185d33b5bea661aef44c08.tar.gz",
-      "hash": "1j1jksi0gd3qymw218yg70aa6qry76fczs3dgxylzg2iivznh6s6"
+      "revision": "ba580dbaa6b67003e0afe70d3e973b7d9a0b0797",
+      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/ba580dbaa6b67003e0afe70d3e973b7d9a0b0797.tar.gz",
+      "hash": "00fkv12yxwl0f4h1vhyqxc0w94wh76v6sd1cbqf6fjf574a2vm4n"
     },
     "qogir-icon-theme": {
       "type": "Git",
@@ -56,9 +56,9 @@
         "repo": "tela-circle-icon-theme"
       },
       "branch": "master",
-      "revision": "0cd994a05d7e295976a7d40358dacf6d8ae0dae0",
-      "url": "https://github.com/vinceliuice/tela-circle-icon-theme/archive/0cd994a05d7e295976a7d40358dacf6d8ae0dae0.tar.gz",
-      "hash": "128lxxkw6dcvfb5f083x0vfvsyb2cq94gm3qglyb7s749bjxnpcf"
+      "revision": "1164af1b639f3cb906721caa6a9376937fecf5f1",
+      "url": "https://github.com/vinceliuice/tela-circle-icon-theme/archive/1164af1b639f3cb906721caa6a9376937fecf5f1.tar.gz",
+      "hash": "1ckxpzlqb2l4sjf97p81z6j9s4jw2v820vcd4b23az6s5bfpcazx"
     },
     "tela-icon-theme": {
       "type": "Git",
