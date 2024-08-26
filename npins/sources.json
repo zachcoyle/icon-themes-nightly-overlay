@@ -8,9 +8,9 @@
         "repo": "gruvbox-plus-icon-pack"
       },
       "branch": "master",
-      "revision": "07e7fbbdf77786cce6807ce954a4ca0bcd6ea89a",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/07e7fbbdf77786cce6807ce954a4ca0bcd6ea89a.tar.gz",
-      "hash": "06wf974glpaqy4lhfsmwhxd7jv6481c7jrky86f8m6nf6rxd1534"
+      "revision": "2e93907888ea887ea5e656ac93866e5383b9ff6a",
+      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/2e93907888ea887ea5e656ac93866e5383b9ff6a.tar.gz",
+      "hash": "0bx670mj11fpjw246krg955k2ylc4vgmikmpcj8syviv1q70fkf0"
     },
     "papirus-icon-theme": {
       "type": "Git",
@@ -32,9 +32,9 @@
         "repo": "qogir-icon-theme"
       },
       "branch": "master",
-      "revision": "9caae6dc74eb4bdca0d5f942b3b7461ebcb94834",
-      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/9caae6dc74eb4bdca0d5f942b3b7461ebcb94834.tar.gz",
-      "hash": "19kdyh01d4yz0x92j7yvd84l9ygzvcv29c5h3nshvzd2bvyj3ds0"
+      "revision": "6f0e9603509a664d95516c95f42188a81878f5e1",
+      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/6f0e9603509a664d95516c95f42188a81878f5e1.tar.gz",
+      "hash": "0kv5ydx4r0jq72nzrgqfqfxpyjx59i27pjs5k35kdr1fcppj40qp"
     },
     "rose-pine-icon-theme": {
       "type": "Git",
@@ -92,9 +92,9 @@
         "repo": "WhiteSur-icon-theme"
       },
       "branch": "master",
-      "revision": "08cb9c0a92efdd200e9f7ffad61fc57de902eeea",
-      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/archive/08cb9c0a92efdd200e9f7ffad61fc57de902eeea.tar.gz",
-      "hash": "0n9jmhxwknxlm8iz9074qvk4fm1wkmb1dvfdcrppbvdvmw2snigb"
+      "revision": "353663fa2c947655ce56a50925e22a732b62bc35",
+      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/archive/353663fa2c947655ce56a50925e22a732b62bc35.tar.gz",
+      "hash": "0khvj5rz9izlqm6jp2f60hcy703hsypwlqfxkz8d1fhnajcppzif"
     }
   },
   "version": 3
