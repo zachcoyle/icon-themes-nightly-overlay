@@ -8,9 +8,9 @@
         "repo": "gruvbox-plus-icon-pack"
       },
       "branch": "master",
-      "revision": "0d7cc95180deb32361f45f25c60a616b1f912e5a",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/0d7cc95180deb32361f45f25c60a616b1f912e5a.tar.gz",
-      "hash": "0ql8kb11b8ndj386wxvblkk6k3blw5asfn4s3zsgvyrpn9a9hdpb"
+      "revision": "b211cb406ec7f0a3e43267cd4feabf89d70c1ef0",
+      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/b211cb406ec7f0a3e43267cd4feabf89d70c1ef0.tar.gz",
+      "hash": "0vpjqjd0bj8dbk1hcj4z9ayk4sqf7zs1xz8bbvyhjsnldar5k6zv"
     },
     "papirus-icon-theme": {
       "type": "Git",
@@ -32,9 +32,9 @@
         "repo": "qogir-icon-theme"
       },
       "branch": "master",
-      "revision": "91880625f37f9b2a4b50dd1088a0ae6d1bbc9a4f",
-      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/91880625f37f9b2a4b50dd1088a0ae6d1bbc9a4f.tar.gz",
-      "hash": "1r2ygygm98b56gicack918byqjgzm8sy9vsjk2klic4zpqpkyfs5"
+      "revision": "757d204b1ad6da3dd2a70997166c39fb4238ec10",
+      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/757d204b1ad6da3dd2a70997166c39fb4238ec10.tar.gz",
+      "hash": "05k9pl6is26msssi7csss3apx822l29s3m59ndr2vfdyf11pf72w"
     },
     "rose-pine-icon-theme": {
       "type": "Git",
