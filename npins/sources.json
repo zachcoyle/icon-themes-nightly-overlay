@@ -8,9 +8,9 @@
         "repo": "gruvbox-plus-icon-pack"
       },
       "branch": "master",
-      "revision": "b086bffa69cea3a485807980418f67beab759efa",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/b086bffa69cea3a485807980418f67beab759efa.tar.gz",
-      "hash": "1m6kynrfpwnm96zvqn703rx166bhcxhzg4hfjxip5y9nixf2qvvc"
+      "revision": "c868ed79dfd2299ce161275cf5a3c5f1ebfa9572",
+      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/c868ed79dfd2299ce161275cf5a3c5f1ebfa9572.tar.gz",
+      "hash": "1brhlw5scrfwlr8qd59iirkg15g5zlacj5y04qdqgs8n7dzp8jd9"
     },
     "papirus-icon-theme": {
       "type": "Git",
@@ -92,9 +92,9 @@
         "repo": "WhiteSur-icon-theme"
       },
       "branch": "master",
-      "revision": "1501b0d9f88a5e0fc852f9149ff2564dc381ef92",
-      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/archive/1501b0d9f88a5e0fc852f9149ff2564dc381ef92.tar.gz",
-      "hash": "1y6i3zfdkmp1n2sdgvmi556z5f5q6ysmbcvksz12aw23vj1z7wxw"
+      "revision": "c603534de528f5fd7ebf4a58c501818faef8bc59",
+      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/archive/c603534de528f5fd7ebf4a58c501818faef8bc59.tar.gz",
+      "hash": "1w9bwjrmjavfr3h96g716382lpad9fjj32bxhkcnrm5ivyqjanbx"
     }
   },
   "version": 3
