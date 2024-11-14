@@ -8,9 +8,9 @@
         "repo": "gruvbox-plus-icon-pack"
       },
       "branch": "master",
-      "revision": "09149a54dadffc8fe1cad3ed7a53b12e4345d35c",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/09149a54dadffc8fe1cad3ed7a53b12e4345d35c.tar.gz",
-      "hash": "02vk6wa5s4ri35b56cngh6ylxfhf2r6all6nf90n8zb3d1il9yvm"
+      "revision": "b172aa751e0726b5dbd43f961a20c2a9fe44fd56",
+      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/b172aa751e0726b5dbd43f961a20c2a9fe44fd56.tar.gz",
+      "hash": "1dcx9ynzxgc6yxbz3bzhk9iyla228p7qyl18cl8p68nrcshkwqis"
     },
     "papirus-icon-theme": {
       "type": "Git",
@@ -68,9 +68,9 @@
         "repo": "tela-icon-theme"
       },
       "branch": "master",
-      "revision": "3f14111ce40cb6f2276e35d248905410e0fe7c9e",
-      "url": "https://github.com/vinceliuice/tela-icon-theme/archive/3f14111ce40cb6f2276e35d248905410e0fe7c9e.tar.gz",
-      "hash": "0pk6mhy8p0a8im4rc5w10nz6pc293ilvjnczjcxqgjipmddhdw2g"
+      "revision": "df47f59fe583f7278b930b22ce975b3bb86a1d84",
+      "url": "https://github.com/vinceliuice/tela-icon-theme/archive/df47f59fe583f7278b930b22ce975b3bb86a1d84.tar.gz",
+      "hash": "068gqx1kh0598hf58vig25wdwgpah6zdis66mzbg8xc46ywmwj80"
     },
     "vimix-icon-theme": {
       "type": "Git",
