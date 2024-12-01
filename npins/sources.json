@@ -8,9 +8,9 @@
         "repo": "gruvbox-plus-icon-pack"
       },
       "branch": "master",
-      "revision": "6646e74fcee689950474f8164acdc0f7e07557c3",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/6646e74fcee689950474f8164acdc0f7e07557c3.tar.gz",
-      "hash": "0bhvjgbjgd67xbvs771jqx0pmx1m4nqswb4bnxw7hsav4yplcqbn"
+      "revision": "ab732e9608ce95e17eb5f1c0039a3cef84a15f77",
+      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/ab732e9608ce95e17eb5f1c0039a3cef84a15f77.tar.gz",
+      "hash": "085r3pqs0q9bgw9mhjbxz64wv2w8w3sn11jrvnk845llgidmg99g"
     },
     "papirus-icon-theme": {
       "type": "Git",
