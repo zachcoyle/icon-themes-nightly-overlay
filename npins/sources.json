@@ -8,9 +8,9 @@
         "repo": "gruvbox-plus-icon-pack"
       },
       "branch": "master",
-      "revision": "afff644099ab8c9c3ab8c2b781739ba3cbdf3130",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/afff644099ab8c9c3ab8c2b781739ba3cbdf3130.tar.gz",
-      "hash": "1r6mw7i7yb3mk2yglgh1ikq2wl4bxbryanpwpjzrwl8l79rc30n8"
+      "revision": "74e42f718b34a4ab21d11ba0f8264782911ba556",
+      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/74e42f718b34a4ab21d11ba0f8264782911ba556.tar.gz",
+      "hash": "05qg5slq37j6az01yrh52lag93kf2vl6dbk9cd3j3sx2mjfgl24w"
     },
     "papirus-icon-theme": {
       "type": "Git",
@@ -20,9 +20,9 @@
         "repo": "papirus-icon-theme"
       },
       "branch": "master",
-      "revision": "b12341812389d8337c4c3a7f2ad1490a4ce28996",
-      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/b12341812389d8337c4c3a7f2ad1490a4ce28996.tar.gz",
-      "hash": "00fww53drchm9yqlgly62zcj0wfxd4sc9i4g3jx1i12va69wcal6"
+      "revision": "5dc793db37428b7a3181a46b7e30f5144147bba2",
+      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/5dc793db37428b7a3181a46b7e30f5144147bba2.tar.gz",
+      "hash": "0jxhsc5yildrbm17n12187wqrf2sf393jmy57v1v9vnz3adapxnk"
     },
     "qogir-icon-theme": {
       "type": "Git",
@@ -32,9 +32,9 @@
         "repo": "qogir-icon-theme"
       },
       "branch": "master",
-      "revision": "9e2fec63827d2159e204b768e926f0cb707dfb80",
-      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/9e2fec63827d2159e204b768e926f0cb707dfb80.tar.gz",
-      "hash": "0ip8zdmdkakyxpr2x4ljxv8g38ajqd56z42br4pxk6b6m9n8kkg7"
+      "revision": "472378dbdfa2e6a4a1720ef1825d062199c9c643",
+      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/472378dbdfa2e6a4a1720ef1825d062199c9c643.tar.gz",
+      "hash": "0qyf9sqnxq0l9xr3c4yg1dlp32kls3l8vywiw72i5k58a0n4na0w"
     },
     "rose-pine-icon-theme": {
       "type": "Git",
@@ -92,9 +92,9 @@
         "repo": "WhiteSur-icon-theme"
       },
       "branch": "master",
-      "revision": "1076da06ceffa7af0be101f6ab18e6a785a68ab7",
-      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/archive/1076da06ceffa7af0be101f6ab18e6a785a68ab7.tar.gz",
-      "hash": "1bw80nagv2dcvjm1zg4z9siiawhxgrx531j5y2a5g5bc1fi733x6"
+      "revision": "51c74cd6738ca3e3031e95eda1a8132baddd71a7",
+      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/archive/51c74cd6738ca3e3031e95eda1a8132baddd71a7.tar.gz",
+      "hash": "0fbpkbrw9513v2d1bfsr9y6bdj9b1f2lv72qzg69f5jlm8vmg0mj"
     }
   },
   "version": 3
