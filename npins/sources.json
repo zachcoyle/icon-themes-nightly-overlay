@@ -8,9 +8,9 @@
         "repo": "gruvbox-plus-icon-pack"
       },
       "branch": "master",
-      "revision": "40f21c1fc2b62dbebc4b679b4cdc563652df510c",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/40f21c1fc2b62dbebc4b679b4cdc563652df510c.tar.gz",
-      "hash": "1bg0h46jyas8d67jr2q4wcr89n7cly670x8rsfdx8zsa78y7gqng"
+      "revision": "72d15053ae5dcc2ac95308d03664647cd2577321",
+      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/72d15053ae5dcc2ac95308d03664647cd2577321.tar.gz",
+      "hash": "136pmdyxa5nwpdbwxxbxj0lxhnm6klyphk2bmavy3jxhpvv9bib0"
     },
     "papirus-icon-theme": {
       "type": "Git",
@@ -32,9 +32,9 @@
         "repo": "qogir-icon-theme"
       },
       "branch": "master",
-      "revision": "6bb36df672fa6ccf674171d892a05052994ccef2",
-      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/6bb36df672fa6ccf674171d892a05052994ccef2.tar.gz",
-      "hash": "04pirdlhrs8fw96qg852k3rfnkzc68j1kx3v2ankp0f29lcwyfmi"
+      "revision": "bb4cbb7ace46ffe577fd4da4d7b2b3a2c0b40b11",
+      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/bb4cbb7ace46ffe577fd4da4d7b2b3a2c0b40b11.tar.gz",
+      "hash": "11pxwrl4j4bsm7qaf5b8zvlcbgp8cdjfnmvhfrb8i1a5pwnwgrig"
     },
     "rose-pine-icon-theme": {
       "type": "Git",
@@ -56,9 +56,9 @@
         "repo": "tela-circle-icon-theme"
       },
       "branch": "master",
-      "revision": "12bd45762ab8f362e1cab3533257308835412c9f",
-      "url": "https://github.com/vinceliuice/tela-circle-icon-theme/archive/12bd45762ab8f362e1cab3533257308835412c9f.tar.gz",
-      "hash": "1ass3i9m08vb2h7acxambjgwc8kggwfwshi450mhmncz4jinx8n5"
+      "revision": "260135f0a67e09cfc3cdc208c533f6dea4177b9b",
+      "url": "https://github.com/vinceliuice/tela-circle-icon-theme/archive/260135f0a67e09cfc3cdc208c533f6dea4177b9b.tar.gz",
+      "hash": "1r7rliz4hvqq4z3ssgjq4vb63mgb4mbxv1wx393g5ysc0glrzap4"
     },
     "tela-icon-theme": {
       "type": "Git",
@@ -68,9 +68,9 @@
         "repo": "tela-icon-theme"
       },
       "branch": "master",
-      "revision": "ba6354539f1b7802a15da662b35a3be287befb4d",
-      "url": "https://github.com/vinceliuice/tela-icon-theme/archive/ba6354539f1b7802a15da662b35a3be287befb4d.tar.gz",
-      "hash": "04dm9bn0b8fjwx4g68kb7q2k5yxkcrfkvinp1fd47jibidd6xhq3"
+      "revision": "fea810d948a663f336060b97db556274af3fc7c7",
+      "url": "https://github.com/vinceliuice/tela-icon-theme/archive/fea810d948a663f336060b97db556274af3fc7c7.tar.gz",
+      "hash": "1psb088mfbs1ln17bibdm67j4528r7pc7db91xq677l9a8bcmy5r"
     },
     "vimix-icon-theme": {
       "type": "Git",
@@ -80,9 +80,9 @@
         "repo": "vimix-icon-theme"
       },
       "branch": "master",
-      "revision": "f36d774cb918698df9987bb38deaa8831e0dfc29",
-      "url": "https://github.com/vinceliuice/vimix-icon-theme/archive/f36d774cb918698df9987bb38deaa8831e0dfc29.tar.gz",
-      "hash": "1d3875yy04cjki4wfjdfyc1x1dziwwg106002chnqn4ciyqqw2mc"
+      "revision": "7d9a6e955dd0688470c6ca4547f91d557e5a9b67",
+      "url": "https://github.com/vinceliuice/vimix-icon-theme/archive/7d9a6e955dd0688470c6ca4547f91d557e5a9b67.tar.gz",
+      "hash": "085yf3ax0k23kkg6vrrifm4lvpp18fhnygcs411pdxl6ksm09p0w"
     },
     "whitesur-icon-theme": {
       "type": "Git",
@@ -92,9 +92,9 @@
         "repo": "WhiteSur-icon-theme"
       },
       "branch": "master",
-      "revision": "d89fecb0f0978b452aae1ffbe3ce38c8691816c8",
-      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/archive/d89fecb0f0978b452aae1ffbe3ce38c8691816c8.tar.gz",
-      "hash": "1kg0kiswnc6qq93hym1dvjg864407rw9adpz8wfii8sriymrxn1v"
+      "revision": "955fa38114998a3c9e4793fd2bf0d4d015d35617",
+      "url": "https://github.com/vinceliuice/WhiteSur-icon-theme/archive/955fa38114998a3c9e4793fd2bf0d4d015d35617.tar.gz",
+      "hash": "1npazc528adsih675gmpwbxgfb9jymml12zas9h6aq8v5h4zms9c"
     }
   },
   "version": 3
