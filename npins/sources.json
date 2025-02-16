@@ -32,9 +32,9 @@
         "repo": "qogir-icon-theme"
       },
       "branch": "master",
-      "revision": "bb4cbb7ace46ffe577fd4da4d7b2b3a2c0b40b11",
-      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/bb4cbb7ace46ffe577fd4da4d7b2b3a2c0b40b11.tar.gz",
-      "hash": "11pxwrl4j4bsm7qaf5b8zvlcbgp8cdjfnmvhfrb8i1a5pwnwgrig"
+      "revision": "4abc106eb24dfcd2a62271206a5472120d49d2e7",
+      "url": "https://github.com/vinceliuice/qogir-icon-theme/archive/4abc106eb24dfcd2a62271206a5472120d49d2e7.tar.gz",
+      "hash": "08qcphdp49ciyr294fgk9i1s3h6svx5bdzfglikb20jzh5d167hj"
     },
     "rose-pine-icon-theme": {
       "type": "Git",
