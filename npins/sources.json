@@ -20,9 +20,9 @@
         "repo": "papirus-icon-theme"
       },
       "branch": "master",
-      "revision": "61f835b8cf6a5946d0130c61cfb6d9bd070a3269",
-      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/61f835b8cf6a5946d0130c61cfb6d9bd070a3269.tar.gz",
-      "hash": "12csy9xr8qww8zwpq0adhfls765ygj8ndcs95whhwfhhas4df551"
+      "revision": "d56612478167319a31ce76d1266b0d7fda41a678",
+      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/d56612478167319a31ce76d1266b0d7fda41a678.tar.gz",
+      "hash": "1813qvdppvb2b41llzmlh4174fhy2s2cb3y5s5acjmjn5vvms1yr"
     },
     "qogir-icon-theme": {
       "type": "Git",
@@ -44,9 +44,9 @@
         "repo": "gtk"
       },
       "branch": "main",
-      "revision": "d0d7815f0af2facd3157e005cd7c606d4f28d881",
-      "url": "https://github.com/rose-pine/gtk/archive/d0d7815f0af2facd3157e005cd7c606d4f28d881.tar.gz",
-      "hash": "0lbq994j5fpk9ivq55gxjpwc2xq0a2z2cns7y1sijlcm6gwsq9dw"
+      "revision": "b324e73a5a590e4a95c83303a855ac115ad3b0ee",
+      "url": "https://github.com/rose-pine/gtk/archive/b324e73a5a590e4a95c83303a855ac115ad3b0ee.tar.gz",
+      "hash": "103w7smyg5bw6sjmyq6b6543z946y2c2ryq37gmn4xkip0rzsjnm"
     },
     "tela-circle-icon-theme": {
       "type": "Git",
