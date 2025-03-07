@@ -8,9 +8,9 @@
         "repo": "gruvbox-plus-icon-pack"
       },
       "branch": "master",
-      "revision": "9d30988b68eda6499473a573cdad396fe63bcac1",
-      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/9d30988b68eda6499473a573cdad396fe63bcac1.tar.gz",
-      "hash": "1g2is4ckmbamldd3naydgxpzg6y1vddbfnwvcz0zvbdw834fp3g8"
+      "revision": "326b752eee4842b2303142dd5b5b9e07afdcd316",
+      "url": "https://github.com/SylEleuth/gruvbox-plus-icon-pack/archive/326b752eee4842b2303142dd5b5b9e07afdcd316.tar.gz",
+      "hash": "0w6c53aj6fw0zfkfhq9kn5g08yxq7nnk7z01rr4x3dlkjsw06h47"
     },
     "papirus-icon-theme": {
       "type": "Git",
@@ -20,9 +20,9 @@
         "repo": "papirus-icon-theme"
       },
       "branch": "master",
-      "revision": "564ee9129915035a0bcdd3885fbb50678e7e64c9",
-      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/564ee9129915035a0bcdd3885fbb50678e7e64c9.tar.gz",
-      "hash": "1q9whdxlfp1zkdmi513p1dplxmcaqipr3iqkgv46c26n9vf8r7nz"
+      "revision": "f0154a8e2ef38fc224d0c97344a3c4178446c2ce",
+      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/f0154a8e2ef38fc224d0c97344a3c4178446c2ce.tar.gz",
+      "hash": "05i0ifz7yn3x09yp0wkc42rrq4dpx99jdbq11xa5f2dpnmj767pr"
     },
     "qogir-icon-theme": {
       "type": "Git",
