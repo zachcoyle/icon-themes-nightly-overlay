@@ -80,9 +80,9 @@
         "repo": "vimix-icon-theme"
       },
       "branch": "master",
-      "revision": "bd98d1138935e3729512cde518a25efc9cdc25ec",
-      "url": "https://github.com/vinceliuice/vimix-icon-theme/archive/bd98d1138935e3729512cde518a25efc9cdc25ec.tar.gz",
-      "hash": "168688xi3gql7h8zd088rbcjm2jf2vz2q9hpx3fxlxb6bhccsdy1"
+      "revision": "7f5271ce4971bda7b121b5d9ffb48076f8a505ca",
+      "url": "https://github.com/vinceliuice/vimix-icon-theme/archive/7f5271ce4971bda7b121b5d9ffb48076f8a505ca.tar.gz",
+      "hash": "0gsjrgczc73x7an4w5ppp38rzjss7q2hvz5y85r7pjpwdkjawa0v"
     },
     "whitesur-icon-theme": {
       "type": "Git",
