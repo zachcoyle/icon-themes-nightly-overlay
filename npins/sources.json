@@ -20,9 +20,9 @@
         "repo": "papirus-icon-theme"
       },
       "branch": "master",
-      "revision": "ef857854e6c2929c6e66d97c674ec8462b3d38ff",
-      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/ef857854e6c2929c6e66d97c674ec8462b3d38ff.tar.gz",
-      "hash": "0n9lmydqwggy33hks9vrk627gybgpyfsqi020libjyscwygry19x"
+      "revision": "d71a525ed60faa2b7cbdd85595fe3ed4c77638e2",
+      "url": "https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/d71a525ed60faa2b7cbdd85595fe3ed4c77638e2.tar.gz",
+      "hash": "0mnbmr7wd3qfflfgfw9jn1zmh4x5mgasc4z1r7cywmrl6b975k7w"
     },
     "qogir-icon-theme": {
       "type": "Git",
